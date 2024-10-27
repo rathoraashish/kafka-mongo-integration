@@ -1,5 +1,10 @@
 {
   "name": "post-consumer",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ashish Rathore",
+    "email": "rathorashish79@gmail.com"
+  },
   "scripts": {
     "dev": "nodemon src/index.ts"
   },
